@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="quality_card_bg">#1AFFFFFF</color> <!-- 10% White overlay -->
+    <color name="quality_card_stroke">#26FFFFFF</color> <!-- 15% White stroke -->
+</resources>

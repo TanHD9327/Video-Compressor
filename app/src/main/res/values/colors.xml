@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="bg_default">#00000000</color> <!-- Transparent means use theme default -->
+    <color name="bg_blue">#E3F2FD</color>
+    <color name="bg_green">#E8F5E9</color>
+    <color name="bg_pink">#FCE4EC</color>
+    <color name="bg_yellow">#FFFDE7</color>
+
+    <!-- Quality Card Colors -->
+    <color name="quality_card_bg">#B3FFFFFF</color> <!-- 70% White -->
+    <color name="quality_card_stroke">#1A000000</color> <!-- 10% Black -->
+</resources>
